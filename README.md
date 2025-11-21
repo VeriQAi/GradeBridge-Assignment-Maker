@@ -5,7 +5,7 @@ A professional, client-side assignment creation tool for educators to create str
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-**🚀 [Live Demo](https://andreknoesen.github.io/GradeBridge-Assignment-Maker/)** - Try the app now!
+**🚀 [Live Demo](https://veriqai.github.io/GradeBridge-Assignment-Maker/)** - Try the app now!
 
 ## Overview
 
@@ -53,7 +53,7 @@ Open Source: This is a free, community-supported tool maintained by the VeriQAi 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AndreKnoesen/GradeBridge-Assignment-Maker.git
+   git clone https://github.com/VeriQAi/GradeBridge-Assignment-Maker.git
    cd GradeBridge-Assignment-Maker
    ```
 
@@ -301,7 +301,7 @@ GradeBridge Assignment Maker stores data in **browser localStorage**:
 
 ### Companion App
 
-**GradeBridge Student Submission**: https://andreknoesen.github.io/GradeBridge-Student-Submission/
+**GradeBridge Student Submission**: https://veriqai.github.io/GradeBridge-Student-Submission/
 
 Students use this app to:
 - Load your assignment JSON
@@ -435,15 +435,15 @@ MIT License - Free for personal and commercial use.
 
 ## Contact & Support
 
-- **GitHub**: [AndreKnoesen/GradeBridge-Assignment-Maker](https://github.com/AndreKnoesen/GradeBridge-Assignment-Maker)
-- **Issues**: [GitHub Issues](https://github.com/AndreKnoesen/GradeBridge-Assignment-Maker/issues)
-- **Live App**: [https://andreknoesen.github.io/GradeBridge-Assignment-Maker/](https://andreknoesen.github.io/GradeBridge-Assignment-Maker/)
+- **GitHub**: [VeriQAi/GradeBridge-Assignment-Maker](https://github.com/VeriQAi/GradeBridge-Assignment-Maker)
+- **Issues**: [GitHub Issues](https://github.com/VeriQAi/GradeBridge-Assignment-Maker/issues)
+- **Live App**: [https://veriqai.github.io/GradeBridge-Assignment-Maker/](https://veriqai.github.io/GradeBridge-Assignment-Maker/)
 
 ## Related Projects
 
-- **Student Submission App**: [GradeBridge-Student-Submission](https://github.com/AndreKnoesen/GradeBridge-Student-Submission)
+- **Student Submission App**: [GradeBridge-Student-Submission](https://github.com/VeriQAi/GradeBridge-Student-Submission)
   - Companion app for students to complete assignments
-  - Live: https://andreknoesen.github.io/GradeBridge-Student-Submission/
+  - Live: https://veriqai.github.io/GradeBridge-Student-Submission/
 
 ## Acknowledgments
 
